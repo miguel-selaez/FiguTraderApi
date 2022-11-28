@@ -95,178 +95,213 @@ album = [
     "figuId": 19
     },
     {
-    "descripcion": "descripcion 20",
+    "descripcion": "Escudo de CBF",
     "categoria": "Brasil",
     "figuId": 20
     },
     {
-    "descripcion": "descripcion 21",
+    "descripcion": "Alisson",
     "categoria": "Brasil",
     "figuId": 21
     },
     {
-    "descripcion": "descripcion 22",
+    "descripcion": "Ederson",
     "categoria": "Brasil",
     "figuId": 22
     },
     {
-    "descripcion": "descripcion 23",
+    "descripcion": "Alex Sandro",
     "categoria": "Brasil",
     "figuId": 23
     },
     {
-    "descripcion": "descripcion 24",
+    "descripcion": "Danilo",
     "categoria": "Brasil",
     "figuId": 24
     },
     {
-    "descripcion": "descripcion 25",
+    "descripcion": "Eder Militao",
     "categoria": "Brasil",
     "figuId": 25
     },
     {
-    "descripcion": "descripcion 26",
+    "descripcion": "Marquinhos",
     "categoria": "Brasil",
     "figuId": 26
     },
     {
-    "descripcion": "descripcion 27",
+    "descripcion": "Thiago Silva",
     "categoria": "Brasil",
     "figuId": 27
     },
     {
-    "descripcion": "descripcion 28",
+    "descripcion": "Casemiro",
     "categoria": "Brasil",
     "figuId": 28
     },
     {
-    "descripcion": "descripcion 29",
+    "descripcion": "Phileppe Coutinho",
     "categoria": "Brasil",
     "figuId": 29
     },
     {
-    "descripcion": "descripcion 30",
+    "descripcion": "Fabinho",
     "categoria": "Brasil",
     "figuId": 30
     },
     {
-    "descripcion": "descripcion 31",
+    "descripcion": "Fred",
     "categoria": "Brasil",
     "figuId": 31
     },
     {
-    "descripcion": "descripcion 32",
+    "descripcion": "Lucas Paquetá",
     "categoria": "Brasil",
     "figuId": 32
     },
     {
-    "descripcion": "descripcion 33",
+    "descripcion": "Antony",
     "categoria": "Brasil",
     "figuId": 33
     },
     {
-    "descripcion": "descripcion 34",
+    "descripcion": "Gabriel Jesus",
     "categoria": "Brasil",
     "figuId": 34
     },
     {
-    "descripcion": "descripcion 35",
+    "descripcion": "Neymar Jr",
     "categoria": "Brasil",
     "figuId": 35
     },
     {
-    "descripcion": "descripcion 36",
+    "descripcion": "Raphinha",
     "categoria": "Brasil",
     "figuId": 36
     },
     {
-    "descripcion": "descripcion 37",
+    "descripcion": "Richarlison",
     "categoria": "Brasil",
     "figuId": 37
     },
     {
-    "descripcion": "descripcion 38",
+    "descripcion": "Vinícius",
     "categoria": "Brasil",
     "figuId": 38
     },
     {
-    "descripcion": "descripcion 39",
+    "descripcion": "Escudo Mexico",
     "categoria": "Mexico",
     "figuId": 39
     },
     {
-    "descripcion": "descripcion 40",
+    "descripcion": "Guillermo Ochoa",
     "categoria": "Mexico",
     "figuId": 40
     },
     {
-    "descripcion": "descripcion 41",
+    "descripcion": "Alfredo Talavera",
     "categoria": "Mexico",
     "figuId": 41
     },
     {
-    "descripcion": "descripcion 42",
+    "descripcion": "Nestor Araujo",
     "categoria": "Mexico",
     "figuId": 42
     },
     {
-    "descripcion": "descripcion 43",
+    "descripcion": "Jesus Gallardo",
     "categoria": "Mexico",
     "figuId": 43
     },
     {
-    "descripcion": "descripcion 44",
+    "descripcion": "Cesar Montes",
     "categoria": "Mexico",
     "figuId": 44
     },
     {
-    "descripcion": "descripcion 45",
+    "descripcion": "Hector Moreno",
     "categoria": "Mexico",
     "figuId": 45
     },
     {
-    "descripcion": "descripcion 46",
+    "descripcion": "Luis Romo",
     "categoria": "Mexico",
     "figuId": 46
     },
     {
-    "descripcion": "descripcion 47",
+    "descripcion": "Jorge Sanchez",
     "categoria": "Mexico",
     "figuId": 47
     },
     {
-    "descripcion": "descripcion 48",
+    "descripcion": "Edson Alvarez",
     "categoria": "Mexico",
     "figuId": 48
     },
     {
-    "descripcion": "descripcion 49",
+    "descripcion": "Jesus Manuel Corona",
     "categoria": "Mexico",
     "figuId": 49
     },
     {
-    "descripcion": "descripcion 50",
+    "descripcion": "Andres Guardado",
     "categoria": "Mexico",
     "figuId": 50
     },
     {
-    "descripcion": "descripcion 51",
+    "descripcion": "Erick Guitierrez",
     "categoria": "Mexico",
     "figuId": 51
     },
     {
-    "descripcion": "descripcion 52",
+    "descripcion": "Hector Herrera",
     "categoria": "Mexico",
     "figuId": 52
     },
     {
-    "descripcion": "descripcion 53",
+    "descripcion": "Diego Lainez",
     "categoria": "Mexico",
     "figuId": 53
     },
     {
-    "descripcion": "descripcion 54",
+    "descripcion": "Carlos Rodriguez",
     "categoria": "Mexico",
     "figuId": 54
+    },
+    {
+    "descripcion": "Rogelio Funes Mori",
+    "categoria": "Mexico",
+    "figuId": 55
+    },
+    {
+    "descripcion": "Raul Jimenez",
+    "categoria": "Mexico",
+    "figuId": 56
+    },
+    {
+    "descripcion": "Hirving Lozano",
+    "categoria": "Mexico",
+    "figuId": 57
+    },
+    {
+    "descripcion": "La eeb 1",
+    "categoria": "Qatar",
+    "figuId": 58
+    },
+    {
+    "descripcion": "La eeb 2",
+    "categoria": "Qatar",
+    "figuId": 59
+    },
+    {
+    "descripcion": "Estadio Al Bayt",
+    "categoria": "Qatar",
+    "figuId": 60
+    },
+    {
+    "descripcion": "Pelota Al Rihla",
+    "categoria": "Qatar",
+    "figuId": 61
     }
 ]
